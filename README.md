@@ -1,6 +1,6 @@
 # 🌺 Iris Flower Machine Learning Predictor
 
-A simple **Machine Learning + Streamlit** web application that predicts the **species of an Iris flower** based on user-provided measurements.
+A simple end-to-end **Machine Learning + Streamlit** web application that predicts the **species of an Iris flower** based on user-provided measurements.
 
 🔗 **Live App:**
 👉 https://iris-flower-ml-predictor.streamlit.app/
